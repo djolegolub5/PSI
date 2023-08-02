@@ -1,0 +1,65 @@
+#header{
+    height: 75px;
+    width:100%;
+}
+
+.slike{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+    text-align:center;
+    color:white;
+
+
+
+}
+
+.stranica{
+    background-color: rgb(37, 33, 30);
+    text-align:center;
+    color:white;
+    
+}
+
+.naslov{
+    padding-left:50px;
+}
+
+
+
+.naziv{
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:linke{
+color:transparent;
+}
+
+a:hover{
+
+    color:white;
+    text-decoration:none;
+    text-decoration-color: transparent;
+}
+
+.centrirano{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    align-content: center;
+}
+
+.biranje{
+    height: 15px;
+    width:15px;
+}
+
+.dole{
+
+    background-color:#333333;
+    color:white;
+}
